@@ -2,15 +2,14 @@
 
 [![Nikki Schmidt, Software Developer](https://i.imgur.com/qOtuLcY.png)](http://nsylv.github.io/)
 
-I'm Nikki!  I'm a software developer, currently working [@Tamr](https://www.tamr.com/) as a tech lead.
+I'm Nikki!  I'm a software developer, currently working at [Aalto](https://aalto.com/) as a senior software developer.
 
 💬  Want to chat?  Ask me about:
 * React ⚛️
 * Typescript 🙌
-* Enterprise application development 👔
 * Cats :cat:, dogs :dog:, horses :horse:, goats :goat:
-* Video games (especially League of Legends) 🎮
-* Soccer ⚽️
+* Soccer ⚽️, Pickleball 🏓, Standup Paddleboarding 🏄‍♀️
+* Home renovation 👷‍♀️
 
 
 <!--
