@@ -2,13 +2,13 @@
 
 [![Nikki Schmidt, Senior Software Developer](https://i.imgur.com/qOtuLcY.png)](https://nsylv.dev/)
 
-I'm Nikki!  I'm a software developer, currently working at [Apollo.io](https://www.apollo.io/) as a senior frontend engineer
+I'm Nikki!  I'm a software developer, currently working at [Discord](https://discord.com/)
 
 💬  Want to chat?  Ask me about:
 * React ⚛️
 * Typescript 🙌
 * Cats :cat:, dogs :dog:, horses :horse:, goats :goat:
-* Soccer ⚽️, Pickleball 🏓, Standup Paddleboarding 🏄‍♀️
+* Standup Paddleboarding 🏄‍♀️, Mountain Biking 🚵, Soccer ⚽️, Pickleball 🏓
 * Road trips 🚙
 * Home renovation 👷‍♀️
 
